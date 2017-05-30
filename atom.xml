@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SxH</title>
+  <subtitle>Make things better</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-05-29T16:26:55.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Hannah Hou</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hacking</title>
+    <link href="http://yoursite.com/2017/05/30/hacking/"/>
+    <id>http://yoursite.com/2017/05/30/hacking/</id>
+    <published>2017-05-29T16:05:56.000Z</published>
+    <updated>2017-05-29T16:26:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>\<img src="http://i.imgur.com/Pe4EK67.jpg" class="full-image" \=""></p>
+<h1 id="The-GNU-Manifesto"><a href="#The-GNU-Manifesto" class="headerlink" title="The GNU Manifesto"></a>The GNU Manifesto</h1><p>• The GNU Project is part of the Free Software Movement, a campaign for freedom for users of software .<br>• It is a mistake to associate GNU with the term “open source”—that term was coined in 1998 by people who disagree with the Free Software Movement’s ethical values. They use it to promote an amoral approach to the same field.<br>• GNU, which stands for Gnu’s Not Unix, is the name for the complete Unix-compatible software system which I am writing so that I can give it away free to everyone who can use it.<br>• GNU will be able to run Unix programs, but will not be identical to Unix.<br>• Many programmers are unhappy about the commercialization of system software. The fundamental act of friendship among programmers is the sharing of programs; marketing arrangements now typically used essentially forbid programmers to treat others as friends.</p>
+<h1 id="How-to-Fix-Our-Broken-Patent-System"><a href="#How-to-Fix-Our-Broken-Patent-System" class="headerlink" title="How to Fix Our Broken Patent System"></a>How to Fix Our Broken Patent System</h1><h2 id="Our-proposed-fixes-include"><a href="#Our-proposed-fixes-include" class="headerlink" title="Our proposed fixes include:"></a>Our proposed fixes include:</h2><p>• Passing measures that focus on strengthening patent quality—such as reaffirming limits on functional claiming and ending continuation abuse—as well as implementing inexpensive, efficient tools to challenge the validity of issued patents.<br>• Passing a comprehensive patent litigation reform bill, such as the Innovation Act, that levels the playing field and removes systemic advantages for patent trolls.<br>• Ending the Federal Circuit’s exclusive jurisdiction over patent cases, so that other appellate courts have a chance to offer alternative approaches and legal interpretations.<br>• Passing meaningful reform to discourage bad actors from sending frivolous demand letters.<br>• Putting a stop to “forum shopping,” the ability for patent owners to file suit in distant favorable districts that have minimal ties to defendant.<br>• Combining legislative reforms with action by the Patent Office to modernize its procedures (such as its use of online resources and databases) and promote patent clarity. The courts, for their part, could seek to limit exorbitant damages awards.<br>• Encouraging companies to adopt alternative patent licensing schemes that prevent patents from being abused by trolls.<br>• Fixing the current patent mess will require concerted action, but it can be done. Now more than ever, there is both the need and the will for real and lasting reform. </p>
+<h1 id="Bernstein-vUS-Department-of-Justice"><a href="#Bernstein-vUS-Department-of-Justice" class="headerlink" title="Bernstein vUS Department of Justice"></a>Bernstein vUS Department of Justice</h1><p>• In light of these considerations, we conclude that encryption software, in its source code form 15 and as employed by those in the field of cryptography, must be viewed as expressive for First Amendment purposes, and thus is entitled to the protections of the prior restraint doctrine.</p>
+<p>• They are the consequences of falling costs, and hence falling barriers to creativity. The most dramatic are the changes in the costs of distribution; but just as important are the changes in the costs of production. Both are the consequences of going digital: digital technologies create and replicate reality much more efficiently than nondigital technology does. This will mean a world of change.</p>
+<h1 id="Lessig-Why-the-Internet-design-supports-innovation"><a href="#Lessig-Why-the-Internet-design-supports-innovation" class="headerlink" title="Lessig: Why the Internet design supports innovation?"></a>Lessig: Why the Internet design supports innovation?</h1><p>• Because of e2e, no one need register an application with “the Internet” before it will run; no permission to use the bandwidth is required. Instead, e2e means the network is designed to assure that the network cannot decide which innovations will run. The system is built—constituted—to remain open to whatever innovation comes along.  </p>
+<p>• Patents – and the ‘anti-commons’… a resource where many have the right to block the use of a resource by others (and therefore many more underuse the resource)<br>• Example: post Soviet Russia where buildings were never developed because too many claims could be made on them and too many bureaucrats could veto the projects</p>
+<h1 id="Is-hacking-a-crime"><a href="#Is-hacking-a-crime" class="headerlink" title="Is hacking a crime?"></a>Is hacking a crime?</h1><p>• If it is felt that hacking (or another form of computer misuse) should be criminalised, then it is crucial to identify the special harm which such such an offence would seek to counter.<br>• The Law Commission, UK, Working Paper No. 10: Computer Misuse</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;\&lt;img src=&quot;http://i.imgur.com/Pe4EK67.jpg&quot; class=&quot;full-image&quot; \=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;The-GNU-Manifesto&quot;&gt;&lt;a href=&quot;#The-GNU-Manifesto&quot; class=&quot;he
+    
+    </summary>
+    
+    
+      <category term="internet-governance; notes" scheme="http://yoursite.com/tags/internet-governance-notes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About</title>
+    <link href="http://yoursite.com/2017/05/29/About/"/>
+    <id>http://yoursite.com/2017/05/29/About/</id>
+    <published>2017-05-29T08:02:11.000Z</published>
+    <updated>2017-05-29T13:11:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://68.media.tumblr.com/05544a30c2133e3de6240e6a26548d66/tumblr_nxe9t8XZSd1ukdlcoo1_1280.jpg" alt=""></p>
+<h2 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h2><p>我养过两只狗，一只京巴儿，白色的，很可爱，一只鹿犬，比通常的鹿犬胖好几倍，一样地讨人喜欢。<br>可是它们最后都不在身边了。</p>
+<h2 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h2><p>从小住在军队大院里，也算是大院里的孩子。<br>因为学琴的关系，也混熟了部队里的文工团，教文工团的兵哥哥们弹钢琴。</p>
+<h2 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h2><p>一直非常稳妥地活着，没有波澜地过着生活。 不过，不太喜欢大学的时光，回想起来，除了几个朋友以外，一无是处。<br>现在在 University of Sydney。 没有过人的天赋，每天都泡在图书馆写essay。<br>听起来很苦，但有一起的好朋友，竟然也每天都快乐。</p>
+<h2 id="4"><a href="#4" class="headerlink" title="4."></a>4.</h2><p>什么都有点兴趣，却什么都没有做得很好。</p>
+<p>就这么活着。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://68.media.tumblr.com/05544a30c2133e3de6240e6a26548d66/tumblr_nxe9t8XZSd1ukdlcoo1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;1&quot;&gt;&lt;a href
+    
+    </summary>
+    
+    
+      <category term="about hannah" scheme="http://yoursite.com/tags/about-hannah/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vivid Sydney</title>
+    <link href="http://yoursite.com/2017/05/29/Vivid-Sydney/"/>
+    <id>http://yoursite.com/2017/05/29/Vivid-Sydney/</id>
+    <published>2017-05-28T14:29:27.000Z</published>
+    <updated>2017-05-28T14:35:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>下午去完图书馆以后，和nienie一起踏上了去Circular Quay的火车。</p>
+<p>人可真多。</p>
+<p>我们真累。</p>
+<p>Nienie差点饿死街头，最后被一个面包和一杯奶茶拯救。</p>
+<p>之后吃的完全不像陕西面，辣子很陕西的臊子面，辣到满脸上火痘痘直疼。</p>
+<p><img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fg1g7xtguej31kw16ongv.jpg" alt="" title="The blur Opera House"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;下午去完图书馆以后，和nienie一起踏上了去Circular Quay的火车。&lt;/p&gt;
+&lt;p&gt;人可真多。&lt;/p&gt;
+&lt;p&gt;我们真累。&lt;/p&gt;
+&lt;p&gt;Nienie差点饿死街头，最后被一个面包和一杯奶茶拯救。&lt;/p&gt;
+&lt;p&gt;之后吃的完全不像陕西面，辣子很陕西的臊子面，辣到满脸上
+    
+    </summary>
+    
+    
+      <category term="Sydney" scheme="http://yoursite.com/tags/Sydney/"/>
+    
+  </entry>
+  
+</feed>
